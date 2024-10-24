@@ -1,14 +1,17 @@
-.navbar-nav{
-    font-family: "Roboto", sans-serif;
+.navbar-nav {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-style: normal;
-  }
-  .navbar.bg-body-tertiary {
-    background-color: #28a745 !important;
+}
+.navbar.bg-body-tertiary {
+  background-color: #28a745 !important;
 }
 .container.bg-success.px-3.py-3 {
-    background-color: #28a745 !important;
+  background-color: #28a745 !important;
 }
-*{
-    font-family: "Roboto", sans-serif;
+* {
+  font-family: "Roboto", sans-serif;
+}
+body {
+  background-color: gray;
 }
